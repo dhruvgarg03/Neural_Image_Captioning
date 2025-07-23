@@ -135,13 +135,6 @@ The trained model was used to generate caption for images from the test dataset.
             <br>
             <code> pip install keras </code>
         </li>
-        <li>
-            Clone this repository on your system and head over to it
-            <br>
-              <code> git clone https://github.com/matakshay/Neural_Image_Caption_Generator </code>
-            <br>
-            <code size> cd Neural_Image_Caption_Generator </code>
-        </li>
 	<li>
             To run the model over a random image from the test dataset and see the caption, execute the following command-
             <br>
